@@ -67,6 +67,10 @@ main {
   list-style: none;
 }
 
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
 .nav-title {
   font-size: 2.8rem;
 }
