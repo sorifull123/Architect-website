@@ -277,6 +277,7 @@ main {
     width: 300px;
     text-align: center;
     align-items: center;
+    justify-content: center;
     padding: 10px 10px;
     margin: 20px;
     margin-top: 50px;
